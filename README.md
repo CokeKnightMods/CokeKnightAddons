@@ -4,11 +4,17 @@ Client-side CS-inspired cosmetics for Hypixel SkyBlock, with customizable loadou
 
 ## Download
 
-**[Download CokeKnightAddons 0.17.0](https://github.com/CokeKnightMods/CokeKnightAddons/releases/download/v0.17.0/CokeKnightAddons-0.17.0-MC26.1.2.jar)** · [Release notes and installation](https://github.com/CokeKnightMods/CokeKnightAddons/releases/tag/v0.17.0)
+**[Download CokeKnightAddons 0.17.2](https://github.com/CokeKnightMods/CokeKnightAddons/releases/download/v0.17.2/CokeKnightAddons-0.17.2-MC26.1.2.jar)** · [Release notes and installation](https://github.com/CokeKnightMods/CokeKnightAddons/releases/tag/v0.17.2)
 
 Requires **Minecraft 26.1.2, Fabric Loader 0.19.3 or newer, and Java 25**.
 Put the JAR in your instance's `mods` folder. Keep only one version of the mod.
 Fabric API, Fabric Language Kotlin and Pack Disabler are bundled.
+
+## New in 0.17.2
+
+Installed active packages now load during the normal game startup, including offline. Inventory cosmetics are ready before an item is held, with no equip-triggered reload. Existing selections and cache files are preserved.
+
+Terminator now supports a separate **Fatal Tempo** loadout; Hyperion supports **Chimera, Swarm and Ultimate Wise**. Existing Duplex, Rend and Soul Eater choices remain available.
 
 ## In game
 
