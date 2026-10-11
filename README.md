@@ -12,7 +12,7 @@ Fabric API, Fabric Language Kotlin and Pack Disabler are bundled.
 
 ## New in 0.17.4
 
-**90–175% higher average FPS than 0.17.3** across the four tested scenes, with improved 1% lows and lower P99 frame times. No reduction in model detail, texture quality or animation fidelity. Existing settings, loadouts and offline assets remain compatible.
+**124–177% higher average FPS than 0.17.2** across the four tested scenes, with improved 1% lows and lower P99 frame times. No reduction in model detail, texture quality or animation fidelity. Existing settings, loadouts and offline assets remain compatible.
 
 See the [performance patch notes](PATCHNOTES.md) for measurements, test conditions and memory/compatibility limitations.
 
