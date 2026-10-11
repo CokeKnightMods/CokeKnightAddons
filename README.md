@@ -4,11 +4,15 @@ Client-side CS-inspired cosmetics for Hypixel SkyBlock, with customizable loadou
 
 ## Download
 
-**[Download CokeKnightAddons 0.17.4](https://github.com/CokeKnightMods/CokeKnightAddons/releases/download/v0.17.4/CokeKnightAddons-0.17.4-MC26.1.2.jar)** · [Release notes and installation](https://github.com/CokeKnightMods/CokeKnightAddons/releases/tag/v0.17.4)
+**[Download CokeKnightAddons 0.17.5](https://github.com/CokeKnightMods/CokeKnightAddons/releases/download/v0.17.5/CokeKnightAddons-0.17.5-MC26.1.2.jar)** · [Release notes and installation](https://github.com/CokeKnightMods/CokeKnightAddons/releases/tag/v0.17.5)
 
 Requires **Minecraft 26.1.2, Fabric Loader 0.19.3 or newer, and Java 25**.
 Put the JAR in your instance's `mods` folder. Keep only one version of the mod.
 Fabric API, Fabric Language Kotlin and Pack Disabler are bundled.
+
+## New in 0.17.5
+
+Downloaded cosmetic packages are grouped into one **CokeKnightAddons** entry with the mod logo. Internal archive names no longer clutter the resource pack menu. Existing cached assets, loadouts and offline startup are preserved.
 
 ## New in 0.17.4
 

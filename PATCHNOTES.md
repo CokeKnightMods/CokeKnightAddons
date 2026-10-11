@@ -1,3 +1,15 @@
+# CokeKnightAddons 0.17.5 — Resource Pack Menu Fix
+
+- Downloaded cosmetic packages now appear as one **CokeKnightAddons** entry with the mod logo, instead of dozens of internal skin, model and sound archive names.
+- Internal dependencies stay enabled when closing or refreshing the resource pack menu and when changing other resource packs.
+- Existing skins, animations, sounds, loadouts and cached files are preserved. No cosmetic downloads are required again.
+- Installed selections still load during normal startup, including offline. Cosmetic selection and optional cache cleanup continue to work through `/cs`.
+- Retains the rendering improvements from 0.17.4.
+
+Verified against 0.17.4 with 22 mounted packages: identical resource bytes and priority, all five weapon sound packages, menu save/rescan, cached selection, cleanup, offline restart and fresh installation. Rendering classes and all asset contents are unchanged.
+
+---
+
 # CokeKnightAddons 0.17.4 — Performance Update
 
 - **124–177% higher average FPS** compared with 0.17.2 in the tested scenes.
