@@ -4,11 +4,17 @@ Client-side CS-inspired cosmetics for Hypixel SkyBlock, with customizable loadou
 
 ## Download
 
-**[Download CokeKnightAddons 0.17.2](https://github.com/CokeKnightMods/CokeKnightAddons/releases/download/v0.17.2/CokeKnightAddons-0.17.2-MC26.1.2.jar)** · [Release notes and installation](https://github.com/CokeKnightMods/CokeKnightAddons/releases/tag/v0.17.2)
+**[Download CokeKnightAddons 0.17.4](https://github.com/CokeKnightMods/CokeKnightAddons/releases/download/v0.17.4/CokeKnightAddons-0.17.4-MC26.1.2.jar)** · [Release notes and installation](https://github.com/CokeKnightMods/CokeKnightAddons/releases/tag/v0.17.4)
 
 Requires **Minecraft 26.1.2, Fabric Loader 0.19.3 or newer, and Java 25**.
 Put the JAR in your instance's `mods` folder. Keep only one version of the mod.
 Fabric API, Fabric Language Kotlin and Pack Disabler are bundled.
+
+## New in 0.17.4
+
+**124–177% higher average FPS than 0.17.2** across the four tested scenes, with improved 1% lows and lower P99 frame times. No reduction in model detail, texture quality or animation fidelity. Existing settings, loadouts and offline assets remain compatible.
+
+See the [performance patch notes](PATCHNOTES.md) for measurements, test conditions and memory/compatibility limitations.
 
 ## New in 0.17.2
 
@@ -22,7 +28,7 @@ Open **`/cs`** to choose skins, gloves and skin tone; configure your viewmodel,
 inspect animations and audio; assign cosmetics to custom items; and manage downloads.
 Existing settings remain compatible. All UI labels are in English.
 
-- **38.40 MB base download.** All catalogue thumbnails are included.
+- **38.42 MB base download.** All catalogue thumbnails are included.
 - 860 individual cosmetic packages are hosted separately. Choosing a cosmetic downloads only that package and required shared files.
 - Models, textures, animations, normal/rare inspect loops and handling sounds load together. Missing assets use the Pack Disabler fallback.
 - Downloads run in the background, are SHA-256 checked, and remain cached for offline use. Automatic cleanup is optional and off by default.
